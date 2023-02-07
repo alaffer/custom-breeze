@@ -1,0 +1,7 @@
+
+cd \web
+laravel new custom-breeze
+composer require laravel/breeze --dev
+php artisan breeze:install --dark
+git commit -m "after Breeze install"
+git push origin master
