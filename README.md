@@ -9,7 +9,8 @@
 
 ## About this project
 
-This project is intended to demonstrate a Laravel Breeze login using email or username
+- This project describes, how we can use Laravel Breeze with an email- or username-login.
+- I changed the files and commit them into this repo - so you get step-by-step instructions 
 
 ## About Laravel
 
